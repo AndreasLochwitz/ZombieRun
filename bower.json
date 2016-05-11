@@ -1,0 +1,18 @@
+{
+  "name": "ZombieRun",
+  "homepage": "https://github.com/AndreasLochwitz/ZombieRun",
+  "authors": [
+    "Andreas Lochwitz <andreas_lochwitz@live.de>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
